@@ -540,7 +540,7 @@ main() {
             echo 'version = "0.2.0"' >> $td/Cargo.toml
 
             # OK
-            test_svd MB9AF12xK
+            #test_svd MB9AF12xK
             test_svd MB9AF12xL
             test_svd MB9AF42xK
             test_svd MB9AF42xL
