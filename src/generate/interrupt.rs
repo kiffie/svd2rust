@@ -143,6 +143,7 @@ pub fn render(
             });
         }
         Target::RISCV => {}
+        Target::Mips => {}
         Target::None => {}
     }
 
